@@ -1,7 +1,6 @@
-# Log In GUI
-This is a simple GUI of Log In program. This code has a local database for a default Username and Password which are "admin" for both variables.
+# Tkinter Tutorial
 
-![Fig1](LoginImage.png)
+Python has a built-in library for creating Graphical User Interface (GUI) called Tkinter. In this repository, I share the tutorial for creating a simple GUI for each mini project. I hope this tutorial is meaningful for all of you.
 
 # Contact
 :email:auliakhalqillah.mail@gmail.com
